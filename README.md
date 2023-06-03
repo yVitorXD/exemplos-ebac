@@ -1,4 +1,5 @@
 # exemplos-ebac
 Exemplos de projetos para o curso da ebac.
-testesave
-dsadasd
+
+Primeiro exemplo de commit e push no rapositorio remoto
+Git Commit Push
